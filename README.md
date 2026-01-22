@@ -38,7 +38,7 @@ Une application interactive développée pour l'**École Polytechnique de Lomé 
 
 ## � Contexte Académique
 
-Projet étudiant réalisé par **Bienvenu OHOUNSOUN** (EPL).
+Projet étudiant réalisé par **OB-39** (EPL).
 L'objectif est d'appliquer les principes de thermodynamique et les méthodes numériques (Simpson, Newton-Raphson) dans une simulation concrète.
 
 ---
