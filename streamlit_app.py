@@ -35,7 +35,7 @@ st.markdown("""
     }
     
     /* Clean up default Streamlit UI */
-    #MainMenu, footer, header {visibility: hidden;}
+    #MainMenu, footer {visibility: hidden;}
     
     .block-container {
         padding-top: 2rem;
